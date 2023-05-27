@@ -18,7 +18,7 @@ export default function InitialScreen(){
                     </div>
                 </section>
             </main>
-            <div>
+            <div className={styles.galeria}>
                 <Gallery/>
             </div>
             <Footer/>
