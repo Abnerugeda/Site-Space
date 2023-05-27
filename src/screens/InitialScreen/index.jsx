@@ -1,4 +1,5 @@
 import Footer from "../../components/Footer";
+import Gallery from "../../components/Gallery";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
 import banner from './banner.png';
@@ -17,6 +18,9 @@ export default function InitialScreen(){
                     </div>
                 </section>
             </main>
+            <div>
+                <Gallery/>
+            </div>
             <Footer/>
         </>
     )
