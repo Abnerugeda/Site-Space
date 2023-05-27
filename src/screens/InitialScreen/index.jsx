@@ -1,8 +1,8 @@
-import Footer from "../../components/Footer";
-import Gallery from "../../components/Gallery";
-import Header from "../../components/Header";
-import Menu from "../../components/Menu";
-import Popular from "../../components/Popular";
+import Footer from "components/Footer";
+import Gallery from "components/Gallery";
+import Header from "components/Header";
+import Menu from "components/Menu";
+import Popular from "components/Popular";
 import banner from './banner.png';
 import styles from './InitialScreen.module.scss'
 
