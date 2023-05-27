@@ -1,7 +1,8 @@
+import InitialScreen from "./screens/InitialScreen";
+import "./styles/globalStyles.scss";
+
 function App() {
-  return (
-    <h1>ALURA SPACE</h1>
-  );
+  return <InitialScreen/>
 }
 
 export default App;
