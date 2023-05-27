@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
 import banner from './banner.png';
@@ -16,6 +17,7 @@ export default function InitialScreen(){
                     </div>
                 </section>
             </main>
+            <Footer/>
         </>
     )
 }
